@@ -52,7 +52,7 @@ There are 5 ships that both the player and enemy have:
 If you sink all of the enemy's ships first you win, otherwise the enemy wins if they sink your ships first.
 
 
-# 🤖 CPU
+## 🤖 CPU
 The CPU chooses where to shoot by the ```enemyturn``` method in ```enemyHandler.js```. 
 
 There are 3 "modes" which the CPU switches between depending on if it has found ships or not.
@@ -67,9 +67,9 @@ There are 3 "modes" which the CPU switches between depending on if it has found 
 This CPU method can be greatly improved upon as randomness is not the best way to find ships, it would be worth improving one day.
 
 
-# 🌐 Related
+## 🌐 Related
 A good website I found showcasing different CPU methods in battleships, which inspired my CPU method:
 http://www.datagenetics.com/blog/december32011/
 
-## License:
+## 📝 License:
 Code in this repository is licensed under the [MIT License](LICENSE).
